@@ -22,7 +22,7 @@ Também utilaza-se as bibliotecas listadas abaixo:
 - Detecta uma mão.
 - Detecta quantos dedos estão levantados.
 - Detecta qual a mão está sendo analisada.
-- Dececta alguns gestos simples.
+- Detecta alguns gestos simples.
 
 ## Instalação
 
